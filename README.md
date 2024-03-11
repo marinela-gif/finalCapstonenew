@@ -1,12 +1,11 @@
-Title:
 
-Investment And Mortgage Financial Calculators.
+**Investment And Mortgage Financial Calculators**
 
-Description of project:
+**Description of project**
 
 The program allows users to calculate investment rate figures for 'simple' and 'compound' interest rates, and a monthly home loan repayment value.
 
-Table of contents:
+**Table of contents**
 
 1. Title of the project
 2. Description of the project
@@ -14,15 +13,17 @@ Table of contents:
 4. Usage of investment and bond formulas instructions and images
 5. Credits
 
-Installation on local device:
+**Installation on local device**
 
-Installation of the the project on your local device following this command 'git clone https://github.com/marinela-gif/finalCapstone.git' in your terminal.
+1. Download and install Python programming language.
+2. install an interpreter such as Anaconda.
+3. Install the project on your local device following the following command: 'git clone https://github.com/marinela-gif/finalCapstone.git' in your terminal.
 
-How to use the program:
+**How to use the program**
 
 Answer the prompt user question and answer with your values.
 
-Image of the investment formulas:
+**Images of the investment formulas**
    
    ![image](https://github.com/marinela-gif/finalCapstone/assets/151722887/9379e350-a0e2-4e2f-9d63-52106fdd2bda)
 
@@ -32,7 +33,7 @@ Image of the investment formulas:
 
 
 
-Image of the bond formula:
+**Imagse of the bond formula**
     
     ![image](https://github.com/marinela-gif/finalCapstone/assets/151722887/f5fc20b4-38f2-4c39-922d-396c0376b074)
 
