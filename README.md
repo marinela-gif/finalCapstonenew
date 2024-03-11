@@ -17,7 +17,7 @@ The program allows users to calculate investment rate figures for 'simple' and '
 
 1. Download and install Python programming language.
 2. install an interpreter such as Anaconda.
-3. Install the project on your local device following the following command: 'git clone https://github.com/marinela-gif/finalCapstone.git' in your terminal.
+3. Install the project on your local device following the following command: 'git clone https://github.com/marinela-gif/finalCapstonenew' in your terminal.
 
 **How to use the program**
 
